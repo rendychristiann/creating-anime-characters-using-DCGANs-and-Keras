@@ -4,8 +4,6 @@
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-green)](https://github.com/rendychristiann)
 
-![image](https://github.com/rendychristiann/chatbot-with-open-source-LLMs/assets/78911479/ac01b4e5-53a4-48dd-9a14-705577c06957)
-
 This repository serves as my learning environment of "Creating anime characters using DCGANs and Keras" by CognitiveClass.ai as a daily assignment from Advance AI Studi Independen Kampus Merdeka by Infinite Learning
 
 ## Table of Contents
